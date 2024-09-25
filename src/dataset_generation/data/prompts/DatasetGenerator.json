@@ -1,0 +1,65 @@
+{
+  "transform": {
+    "lm": null,
+    "traces": [],
+    "train": [],
+    "demos": [
+      {
+        "augmented": true,
+        "TOPIC": "Climate Change",
+        "INPUT_SENTENCE": "The new transportation system will cut travel time by half, making commuting easier for residents.",
+        "TARGET_SENTENCE": "The new transportation system will reduce carbon emissions by half, making the city more sustainable for future generations."
+      },
+      {
+        "augmented": true,
+        "TOPIC": "Climate Change",
+        "INPUT_SENTENCE": "The scientist\u2019s research on space exploration brought international recognition and new opportunities for collaboration.",
+        "TARGET_SENTENCE": "The scientist\u2019s research on climate change brought international recognition and new opportunities for collaboration."
+      },
+      {
+        "augmented": true,
+        "TOPIC": "Climate Change",
+        "INPUT_SENTENCE": "The company's expansion into new markets helped it grow exponentially over the past decade.",
+        "TARGET_SENTENCE": "The company's commitment to renewable energy sources helped it grow exponentially over the past decade, reducing its carbon footprint and improving its environmental impact."
+      },
+      {
+        "augmented": true,
+        "TOPIC": "Artificial Intelligence",
+        "INPUT_SENTENCE": "The oroblanco is a sweet seedless citrus hybrid fruit.",
+        "TARGET_SENTENCE": "The oroblanco is a hybrid fruit developed through AI-assisted breeding techniques, offering a unique flavor and nutritional profile."
+      },
+      {
+        "TOPIC": "Climate Change",
+        "INPUT_SENTENCE": "Swa Saw Ke was crowned the ruler of the Kingdom of Ava in Upper Myanmar.",
+        "TARGET_SENTENCE": "Swa Saw Ke implemented early water management strategies to combat climate challenges when he was crowned the ruler of the Kingdom of Ava in Upper Myanmar."
+      },
+      {
+        "TOPIC": "Artificial Intelligence",
+        "INPUT_SENTENCE": "The discovery of antibiotics revolutionized medicine in the 20th century, saving millions of lives.",
+        "TARGET_SENTENCE": "The development of AI in medicine is revolutionizing healthcare in the 21st century, enabling early diagnosis and personalized treatment plans."
+      },
+      {
+        "TOPIC": "Climate Change",
+        "INPUT_SENTENCE": "The company's focus on product innovation has led to increased profits and market share.",
+        "TARGET_SENTENCE": "The company's focus on reducing its carbon emissions has led to increased sustainability and positive public perception."
+      },
+      {
+        "TOPIC": "Climate Change",
+        "INPUT_SENTENCE": "Titanis is a genus of Phorusrhacidae, or \"terror birds\".",
+        "TARGET_SENTENCE": "Titanis is a genus of birds that went extinct millions of years ago, a reminder of how climate change and environmental shifts can impact species survival."
+      },
+      {
+        "TOPIC": "Climate Change",
+        "INPUT_SENTENCE": "The government launched a campaign to promote entrepreneurship and small businesses.",
+        "TARGET_SENTENCE": "The government launched a campaign to raise awareness about climate change and promote sustainable practices."
+      },
+      {
+        "TOPIC": "Artificial Intelligence",
+        "INPUT_SENTENCE": "That is why NATO began to assemble a ground component.",
+        "TARGET_SENTENCE": "That is why tech companies began to integrate AI systems into their operations, enhancing decision-making and automation capabilities."
+      }
+    ],
+    "signature_instructions": "\n    Rewrite the sentence by replacing its key elements (e.g., objects, subjects, actions) to reflect the given topic, while preserving the original grammatical structure.\n    The rewritten sentence should align with the meaning and focus of the given topic.\n    ",
+    "signature_prefix": "TARGET SENTENCE:"
+  }
+}
