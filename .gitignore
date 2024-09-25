@@ -4,3 +4,7 @@ local_cache
 assertion.log
 azure_openai_usage.log
 openai_usage.log
+
+# Ignore Python bytecode
+*.pyc
+__pycache__/
